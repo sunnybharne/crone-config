@@ -1,3 +1,5 @@
+name: zmk-keyboard-crone
+
 build:
   settings:
     board_root: .
